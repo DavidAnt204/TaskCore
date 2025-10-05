@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Finish README",
+    "description": "Write full documentation for TaskCore",
+    "completed": false
+  },
+  {
+    "title": "Export summary",
+    "description": "Generate exported.json for frontend",
+    "completed": true
+  }
+]
