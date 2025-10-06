@@ -1,7 +1,6 @@
 # ⚙️ TaskCore
 
 **TaskCore** is a modular Java-based task management engine with JSON persistence and TypeScript-powered analytics. Designed for developers who value clean architecture, CLI control, and cross-language extensibility.
-
 ---
 
 ## 🚀 Features
@@ -11,7 +10,6 @@
 - 📊 TypeScript dashboard that reads exported summaries
 - 🧩 Balanced structure with 8 focused files — no clutter, just power
 - 🔗 Multi-language ready: Java + JSON + TypeScript
-
 ---
 
 ## 🛠️ Setup & Run
